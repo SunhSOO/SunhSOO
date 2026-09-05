@@ -2,7 +2,7 @@
 <div align="center">
 
 # 👋 Hi there, I’m **SunhSOO**  
-문제 해결 및 효율적인 코드 작성에 관심이 많은 학생입니다.
+
 
 <!-- 소셜 배지 -->
 <p align="center">
